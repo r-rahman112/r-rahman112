@@ -45,7 +45,7 @@
 
 💬 Ask me about **javaScript,React,Tailwind**
 
-📫 reach me @  **ridwanur89@gmail.com**
+📫 reach me @  **rid.rahman112@gmail.com**
 
 👯 I’m looking to collaborate on **Open-source projects related to Web Development**
 
