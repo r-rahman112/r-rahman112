@@ -27,7 +27,7 @@
 
 </br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Hi+💪+!+I'm+Md+Ridwanur+Rahman+A+Web+Developer+from+Bangladesh!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Hi+💪+I'm+Md+Ridwanur+Rahman+A+Web+Developer+from+Bangladesh!)](https://git.io/typing-svg)
 
 ###
 <h3 align="center">
