@@ -62,11 +62,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
-</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shawon112-max&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  
-</div>
 
 ###
 
@@ -124,7 +119,8 @@
    <tr>
         <td  colspan="2" align="center"> 
 		<br>
-	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+	
+
 		
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" />
